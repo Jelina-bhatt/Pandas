@@ -1,0 +1,8 @@
+Day,Mood,Sleep_Hours,Productivity,Mood_vs_Productivity,Sleep_Quality
+Mon,7,6.5,6,1,Good
+Tue,6,5.0,5,1,Low
+Wed,8,8.0,8,0,Good
+Thu,5,4.5,4,1,Low
+Fri,9,7.0,9,0,Good
+Sat,8,7.5,7,1,Good
+Sun,6,6.0,5,1,Good
