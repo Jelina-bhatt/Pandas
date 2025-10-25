@@ -37,7 +37,7 @@ df = df.sort_values("date")
 
 # Compute insights
 print("📈 Analyzing your balance data...\n")
-
+``
 correlations = df.corr(numeric_only=True)["mood(1-10)"].sort_values(ascending=False)
 print("✨ Mood Correlations:")
 print(correlations, "\n")
